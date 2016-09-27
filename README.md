@@ -1,4 +1,4 @@
-## Your Name
+## Abigail McPhillips
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2016 to November 2016)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +32,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Warwick University (September 2008 to June 2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Mathematics BSc
+*First-class honours*  
+
+#### Chipping Norton School (September 2001 to August 2008)
+
+A Levels
+*Mathematics (A), Further Mathematics (A), Physics (A) and English Literature (A)*
+
+GCSEs
+*11 A*s*
 
 #### Any other qualifications
 
+**ICAEW Chartered Accountant qualification (ACA)**
+
+I have taken and passed all 15 of the ACA qualification exams.
+
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Grant Thornton** (June 2015 to January 2016)    
+*Restructuring Tax Executive*  
+
+**Grant Thornton** (August 2012 to January 2016)    
+*Corporate Tax Associate*  
