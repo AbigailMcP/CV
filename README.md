@@ -33,23 +33,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Rspec, Jasmine, Mocha
 
 #### Warwick University (September 2008 to June 2011)
-
-Mathematics BSc
+Mathematics BSc    
 *First-class honours*  
 
 #### Chipping Norton School (September 2001 to August 2008)
 
-A Levels
+A Levels    
 *Mathematics (A), Further Mathematics (A), Physics (A) and English Literature (A)*
 
-GCSEs
-*11 A*s*
+GCSEs    
+*11 A**s  
 
-#### Any other qualifications
+#### ICAEW Chartered Accountant qualification (ACA)
 
-**ICAEW Chartered Accountant qualification (ACA)**
-
-I have taken and passed all 15 of the ACA qualification exams.
+All 15 of the ACA qualification exams - first time passes
 
 ## Experience
 
