@@ -1,6 +1,6 @@
 ## Abigail McPhillips
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Blog](http://thecodebug.wordpress.com) | [LinkedIn](https://www.linkedin.com/in/abigail-mcphillips-bb3a6154?trk=nav_responsive_tab_profile)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Blog](https://thecodebug.wordpress.com/) | [LinkedIn](https://www.linkedin.com/in/abigail-mcphillips-bb3a6154?trk=nav_responsive_tab_profile)
 
 I'm Abigail - **aspiring developer, maths geek and knitting demon**. After graduating from university with a first-class degree in **Mathematics**, I ignored my wise tutor's warnings and sold my soul to the devil - I became an accountant.
 
@@ -38,22 +38,24 @@ Whilst still an associate in my previous job, I was offered the opportunity to b
 
 ## Projects
 
-Project title | Description | Development timeframe | Technologies | Testing
+Project | Description | Timeframe | Technologies | Testing
 ------------- | ----------- | --------------------- | ------------ | -------
 [UXBuddy](https://github.com/uxbuddy/uxbuddy/)| A user experience testing tool | 10 days | JavaScript, Ruby, Rails, PostgreSQL| RSpec, Capybara, Poltergeist/PhantomJS
 [AirBnBird](https://github.com/AbigailMcP/makers-bnb) | An AirBnB clone | 4 days | JavaScript, Node.js, Express, Pug, Sequelize | Mocha, Chai, Zombie
-[Takeaway Challenge](https://github.com/AbigailMcP/takeaway-challenge) | Practice in OOD | 1 day | Ruby | RSpec
+[Gilded Rose](https://github.com/AbigailMcP/gilded-rose-tech-test) | Refactoring legacy code | 1 day | Ruby | RSpec
 
 ## Education
 
 #### Makers Academy (July 2016 to November 2016)
 
-During my time at Makers I passionately solved problems, learnt best practices such as Test Driven Development and Pair Programming whilst discovering the satisfaction and joy that can come from coding - and I'm hooked. This course also armed me with a confidence in my ability that has allowed me to step into the unknown and take on completely new technologies with alacrity.
+WRITE SOMETHING HERE
 
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Express
 - Rspec, Jasmine, Mocha
+
+Read more about my experience on [my blog](https://thecodebug.wordpress.com/)
 
 #### Warwick University (September 2008 to June 2011)
 
@@ -83,6 +85,6 @@ All 15 of the ACA qualification exams
 
 ## Interests
 
-**Travel** - Much to the distaste of my mother, I love to travel. Earlier this year, I spent two months zigzagging the length of Vietnam on a rusty old motorbike.
+**Travel** - Much to the distaste of my mother, I love to travel. Earlier this year, I spent two months zigzagging the length of Vietnam on a rusty old motorbike - and survived.
 
-**Knitting** - In particular, scientifically accurate viruses, bacteria and cells in plushy form. Doesn't everyone?
+**Knitting** - In particular, knitting scientifically accurate viruses, bacteria and cells in plushy form. Doesn't everyone?
