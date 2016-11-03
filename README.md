@@ -67,6 +67,6 @@ All 15 of the ACA qualification exams - first time passes
 
 ## Hobbies
 
-Travel
+**Travel** - much to the distaste of my mother, I love to travel. I
 
-Knitting
+**Knitting** - In particular, scientifically accurate viruses, bacteria and cells in plushy form. Doesn't everyone?
