@@ -27,7 +27,7 @@ Reverting back to **Ruby** and building an app in **Rails** the following week w
 #### Analytical problem-solver
 For my degree, I focussed mainly on pure Mathematics, discovering a love for analytical, proof-based disciples. I excelled in subjects such as Complex Analysis, Logic and Maths by Computer - using **Matlab** to perform numerical analysis.
 
-My years as a tax adviser also played to my analytic strength - preparing me for life as a developer. For my most recent project, I was responsible for analysing and modelling the tax effect of mis-sold financial products for a large high-street bank. My calculations had to take into account complex tax structures, and needed to stand up to legal scrutiny, being reviewed by independent financial regulators.
+My years as a tax adviser also played to my analytic strength - preparing me for life as a developer. In my last project, I was responsible for analysing and modelling the tax effect of mis-sold financial products for a large high-street bank. My calculations had to take into account complex tax structures, and needed to stand up to legal scrutiny, being reviewed by independent financial regulators.
 
 ## Projects
 
@@ -44,7 +44,7 @@ Project | Description | Timeframe | Technologies | Testing
 A 16-week software development bootcamp
 
 Object-oriented programming
-Agile Methodologies
+Agile methodologies
 Test-Driven Development
 Software Craftsmanship
 Ruby, Rails, Javascript, Node.js
@@ -57,6 +57,11 @@ Read more about my experience on [my blog](https://thecodebug.wordpress.com/)
 **Mathematics BSc**    
 *First-class honours*  
 
+#### ICAEW Chartered Accountant qualification (ACA)
+
+All 15 of the ACA qualification exams  
+*First time passes*
+
 #### Chipping Norton School (September 2001 to August 2008)
 
 **A Levels**  
@@ -64,11 +69,6 @@ Read more about my experience on [my blog](https://thecodebug.wordpress.com/)
 
 **GCSEs**  
 *11 A**s
-
-#### ICAEW Chartered Accountant qualification (ACA)
-
-All 15 of the ACA qualification exams  
-*First time passes*
 
 ## Experience
 
@@ -80,6 +80,6 @@ All 15 of the ACA qualification exams
 
 ## Interests
 
-**Travel** - Much to the distaste of my mother, I love to travel. Earlier this year, I spent two months zigzagging the length of Vietnam on a rusty old motorbike - and survived.
+**Travel** - Much to the distaste of my mother, I love to travel. Earlier this year, I took six months off to travel, two months of which I spent zigzagging the length of Vietnam on a rusty old motorbike - and survived.
 
 **Knitting** - In particular, knitting scientifically accurate viruses, bacteria and cells in plushy form. Doesn't everyone?
