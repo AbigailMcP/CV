@@ -25,7 +25,7 @@ Knowing that I don't know something excites me - I see the unfamiliar as a chall
 Reverting back to **Ruby** and building an app in **Rails** the following week was relatively simple by comparison!
 
 #### Analytical problem-solver
-For my degree, I focussed mainly on pure Mathematics, discovering a love for analytical, proof-based disciples. I excelled in subjects such as Complex Analysis, Logic and Maths by Computer - using **Matlab** to perform numerical analysis.
+For my degree, I focused mainly on pure Mathematics, discovering a love for analytical, proof-based disciples. I excelled in subjects such as Complex Analysis, Logic and Maths by Computer - using **Matlab** to perform numerical analysis.
 
 My years as a tax adviser have also played to my analytical strength - preparing me for life as a developer. In my last project, I was responsible for analysing and modelling the tax effect of mis-sold financial products for a large high-street bank. My calculations had to take into account complex tax structures, and needed to stand up to legal scrutiny, being reviewed by independent financial regulators.
 
