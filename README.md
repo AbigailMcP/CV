@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Blog](https://thecodebug.wordpress.com/) | [LinkedIn](https://www.linkedin.com/in/abigail-mcphillips-bb3a6154?trk=nav_responsive_tab_profile)
 
-I'm Abigail - **aspiring developer, maths geek and knitting demon**. After graduating from university with a first-class degree in **Mathematics**, I ignored my wise tutor's warnings and sold my soul to the devil - I became an accountant.
+I'm Abigail - ** developer, maths geek and knitting demon**. After graduating from university with a first-class degree in **Mathematics**, I ignored my wise tutor's warnings and sold my soul to the devil - I became an accountant.
 
 It took me three and a half years to concede that he may have been onto something. I realised I needed to leave behind the life of tax legislation and propel myself head first into the whirlwind world of coding.
 
@@ -11,7 +11,7 @@ Having recently graduated from Makers Academy, an intensive 16-week coding bootc
 ## Skills
 
 #### Able communicator
-Communication is an important still in any profession - even more so for developers. In addition to possessing the technical skills, I strongly believe that developers should be adept in translating these concepts and communicating best practices to clients.
+Communication is an important skill in any profession - even more so for developers. In addition to possessing the technical skills, I strongly believe that developers should be adept in translating these concepts and communicating best practices to clients.
 
 In my previous role, I was the primary contact for over 40 corporate clients. A key part of developing and maintaining those relationships was **technical translation**. The technical side of my job involved producing complex tax analysis and calculations, but of equal importance was being able to communicate my conclusions clearly to company stakeholders outside of the financial world.
 
@@ -52,15 +52,15 @@ A 16-week software development bootcamp, focussing on:
 
 Read more about my experience on [my blog](https://thecodebug.wordpress.com/).
 
-#### Warwick University (September 2008 to June 2011)
-
-**Mathematics BSc**    
-*First-class honours*  
-
 #### ICAEW Chartered Accountant qualification (ACA)
 
 All 15 of the ACA qualification exams  
 *First time passes*
+
+#### Warwick University (September 2008 to June 2011)
+
+**Mathematics BSc**    
+*First-class honours*  
 
 #### Chipping Norton School (September 2001 to August 2008)
 
