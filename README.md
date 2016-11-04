@@ -11,7 +11,7 @@ Having recently graduated from Makers Academy, an intensive 16-week coding bootc
 ## Skills
 
 #### Able communicator
-Communication is an important still in any profession - even more so for developers, who in addition to possessing the technical skills, should be adept in translating these concepts for less technical types.
+Communication is an important still in any profession - even more so for developers. In addition to possessing the technical skills, I strongly believe that developers should be adept in translating these concepts and communicating best practices to clients.
 
 In my previous role, I was the primary contact for over 40 corporate clients. A key part of developing and maintaining those relationships was **technical translation**. The technical side of my job involved producing complex tax analysis and calculations, but of equal importance was being able to communicate my conclusions clearly to company stakeholders outside of the financial world.
 
@@ -27,7 +27,7 @@ Reverting back to **Ruby** and building an app in **Rails** the following week w
 #### Analytical problem-solver
 For my degree, I focussed mainly on pure Mathematics, discovering a love for analytical, proof-based disciples. I excelled in subjects such as Complex Analysis, Logic and Maths by Computer - using **Matlab** to perform numerical analysis.
 
-My years as a tax adviser also played to my analytic strength - preparing me for life as a developer. In my last project, I was responsible for analysing and modelling the tax effect of mis-sold financial products for a large high-street bank. My calculations had to take into account complex tax structures, and needed to stand up to legal scrutiny, being reviewed by independent financial regulators.
+My years as a tax adviser have also played to my analytical strength - preparing me for life as a developer. In my last project, I was responsible for analysing and modelling the tax effect of mis-sold financial products for a large high-street bank. My calculations had to take into account complex tax structures, and needed to stand up to legal scrutiny, being reviewed by independent financial regulators.
 
 ## Projects
 
@@ -41,16 +41,16 @@ Project | Description | Timeframe | Technologies | Testing
 
 #### Makers Academy (July 2016 to November 2016)
 
-A 16-week software development bootcamp
+A 16-week software development bootcamp, focussing on:
 
-Object-oriented programming
-Agile methodologies
-Test-Driven Development
-Software Craftsmanship
-Ruby, Rails, Javascript, Node.js
-Rspec, Jasmine, Mocha
+- Object-oriented programming  
+- Agile methodologies  
+- Test-Driven Development  
+- Software Craftsmanship  
+- Ruby, Rails, Javascript, Node.js  
+- Rspec, Jasmine, Mocha
 
-Read more about my experience on [my blog](https://thecodebug.wordpress.com/)
+Read more about my experience on [my blog](https://thecodebug.wordpress.com/).
 
 #### Warwick University (September 2008 to June 2011)
 
