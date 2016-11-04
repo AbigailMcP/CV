@@ -41,7 +41,7 @@ Project | Description | Timeframe | Technologies | Testing
 
 #### Makers Academy (July 2016 to November 2016)
 
-A 16-week software development bootcamp, focussing on:
+A 16-week software development bootcamp, focusing on:
 
 - Object-oriented programming  
 - Agile methodologies  
