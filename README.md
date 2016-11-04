@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Blog](https://thecodebug.wordpress.com/) | [LinkedIn](https://www.linkedin.com/in/abigail-mcphillips-bb3a6154?trk=nav_responsive_tab_profile)
 
-I'm Abigail - ** developer, maths geek and knitting demon**. After graduating from university with a first-class degree in **Mathematics**, I ignored my wise tutor's warnings and sold my soul to the devil - I became an accountant.
+I'm Abigail - **developer, maths geek and knitting demon**. After graduating from university with a first-class degree in **Mathematics**, I ignored my wise tutor's warnings and sold my soul to the devil - I became an accountant.
 
 It took me three and a half years to concede that he may have been onto something. I realised I needed to leave behind the life of tax legislation and propel myself head first into the whirlwind world of coding.
 
@@ -75,7 +75,7 @@ All 15 of the ACA qualification exams
 **Grant Thornton** (June 2015 to January 2016)    
 *Restructuring Tax Executive*  
 
-**Grant Thornton** (August 2012 to January 2016)    
+**Grant Thornton*t sta* (August 2012 to January 2016)    
 *Corporate Tax Associate*
 
 ## Interests
