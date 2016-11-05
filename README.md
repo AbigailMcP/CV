@@ -82,4 +82,4 @@ All 15 of the ACA qualification exams
 
 **Travel** - Much to the distaste of my mother, I love to travel. Earlier this year, I took six months off to travel, two months of which I spent zigzagging the length of Vietnam on a rusty old motorbike - and survived.
 
-**Knitting** - In particular, knitting scientifically accurate viruses, bacteria and cells in plushy form. Doesn't everyone?
+**Knitting** - In particular, [knitting scientifically accurate viruses, bacteria and cells](https://www.instagram.com/p/BH0D1aWhZaY/) in plushy form. Doesn't everyone?
