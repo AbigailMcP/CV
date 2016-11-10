@@ -33,7 +33,7 @@ My years as a tax adviser have also played to my analytical strength - preparing
 
 Project | Description | Timeframe | Technologies | Testing
 ------------- | ----------- | --------------------- | ------------ | -------
-[UXBuddy](https://github.com/uxbuddy/uxbuddy/)| A user experience testing tool | 10 days | JavaScript, Ruby, Rails, PostgreSQL| RSpec, Capybara, Poltergeist/PhantomJS
+[UXBuddy](https://github.com/uxbuddy/uxbuddy/)| A user experience testing tool - visit the deployed version [here]( http://uxbuddy.herokuapp.com/)| 10 days | JavaScript, Ruby, Rails, PostgreSQL| RSpec, Capybara, Poltergeist/PhantomJS
 [AirBnBird](https://github.com/AbigailMcP/makers-bnb) | An AirBnB clone | 4 days | JavaScript, Node.js, Express, Pug, Sequelize | Mocha, Chai, Zombie
 [Gilded Rose](https://github.com/AbigailMcP/gilded-rose-tech-test) | Refactoring legacy code | 1 day | Ruby | RSpec
 
