@@ -75,7 +75,7 @@ All 15 of the ACA qualification exams
 **Grant Thornton** (June 2015 to January 2016)    
 *Restructuring Tax Executive*  
 
-**Grant Thornton*t sta* (August 2012 to January 2016)    
+**Grant Thornton** (August 2012 to January 2016)    
 *Corporate Tax Associate*
 
 ## Interests
